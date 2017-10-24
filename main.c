@@ -4,6 +4,7 @@
 /*
  * Autor : Octavian
  * C Lab
+ * 
  */
 
 struct nod{
