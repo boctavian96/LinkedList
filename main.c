@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+ * Autor : Octavian
+ * C Lab
+ */
+
 struct nod{
     int cheie;
     char info[10];
