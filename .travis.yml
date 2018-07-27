@@ -1,3 +1,5 @@
-language: c
-
-compiler: gcc
+  "os": "linux",
+  "dist": "trusty",
+  "group": "stable",
+  "compiler": "gcc",
+  "language": "c"
