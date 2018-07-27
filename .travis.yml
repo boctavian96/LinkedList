@@ -3,3 +3,5 @@
   "group": "stable",
   "compiler": "gcc",
   "language": "c"
+  
+  script: make
